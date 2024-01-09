@@ -1,1 +1,1 @@
-Sitemap: sitemap.xml
+Sitemap: https://familyfordparts.netlify.app/sitemap.xml
